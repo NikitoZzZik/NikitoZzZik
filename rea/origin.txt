@@ -1,0 +1,120 @@
+Uri: http://printrepublic.by/index.html
+File Name: c:\Downloaded Web Sites\printrepublic.by\index.html
+Content Type: text/html
+
+Uri: http://printrepublic.by/favicon.ico
+File Name: c:\Downloaded Web Sites\printrepublic.by\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://printrepublic.by/featherlight.min.css
+File Name: c:\Downloaded Web Sites\printrepublic.by\featherlight.min.css
+Content Type: text/css
+
+Uri: http://printrepublic.by/lp2.css
+File Name: c:\Downloaded Web Sites\printrepublic.by\lp2.css
+Content Type: text/css
+
+Uri: http://printrepublic.by/header.css
+File Name: c:\Downloaded Web Sites\printrepublic.by\header.css
+Content Type: text/css
+
+Uri: http://printrepublic.by/i/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\printrepublic.by\i\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://printrepublic.by/featherlight.min.js
+File Name: c:\Downloaded Web Sites\printrepublic.by\featherlight.min.js
+Content Type: application/javascript
+
+Uri: http://printrepublic.by/img/logo.png
+File Name: c:\Downloaded Web Sites\printrepublic.by\img\logo.png
+Content Type: image/png
+
+Uri: http://printrepublic.by/tshirts.png
+File Name: c:\Downloaded Web Sites\printrepublic.by\tshirts.png
+Content Type: image/png
+
+Uri: http://printrepublic.by/timer.png
+File Name: c:\Downloaded Web Sites\printrepublic.by\timer.png
+Content Type: image/png
+
+Uri: http://printrepublic.by/quality.png
+File Name: c:\Downloaded Web Sites\printrepublic.by\quality.png
+Content Type: image/png
+
+Uri: http://printrepublic.by/i/js/chh.js
+File Name: c:\Downloaded Web Sites\printrepublic.by\i\js\chh.js
+Content Type: application/javascript
+
+Uri: http://printrepublic.by/images/blank/T_M_C-21.jpg
+File Name: c:\Downloaded Web Sites\printrepublic.by\images\blank\T_M_C-21.jpg
+Content Type: image/jpeg
+
+Uri: http://printrepublic.by/images/blank/clear.gif
+File Name: c:\Downloaded Web Sites\printrepublic.by\images\blank\clear.gif
+Content Type: image/gif
+
+Uri: http://printrepublic.by/zamok.png
+File Name: c:\Downloaded Web Sites\printrepublic.by\zamok.png
+Content Type: image/png
+
+Uri: http://printrepublic.by/expobel.png
+File Name: c:\Downloaded Web Sites\printrepublic.by\expobel.png
+Content Type: image/png
+
+Uri: http://printrepublic.by/fonts/grotesk/regular.eot
+File Name: c:\Downloaded Web Sites\printrepublic.by\fonts\grotesk\regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://printrepublic.by/fonts/grotesk/regular.eot?
+File Name: c:\Downloaded Web Sites\printrepublic.by\fonts\grotesk\regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://printrepublic.by/fonts/grotesk/regular.woff
+File Name: c:\Downloaded Web Sites\printrepublic.by\fonts\grotesk\regular.woff
+Content Type: font/woff
+
+Uri: http://printrepublic.by/fonts/grotesk/regular.ttf
+File Name: c:\Downloaded Web Sites\printrepublic.by\fonts\grotesk\regular.bin
+Content Type: application/octet-stream
+
+Uri: http://printrepublic.by/fonts/grotesk/regular.svg
+File Name: c:\Downloaded Web Sites\printrepublic.by\fonts\grotesk\regular.svg
+Content Type: image/svg+xml
+
+Uri: http://printrepublic.by/fonts/bravorg.woff2
+File Name: c:\Downloaded Web Sites\printrepublic.by\fonts\bravorg.woff2
+Content Type: font/woff2
+
+Uri: http://printrepublic.by/fonts/bravorg.woff
+File Name: c:\Downloaded Web Sites\printrepublic.by\fonts\bravorg.woff
+Content Type: font/woff
+
+Uri: http://printrepublic.by/fonts/bravorg.ttf
+File Name: c:\Downloaded Web Sites\printrepublic.by\fonts\bravorg.bin
+Content Type: application/octet-stream
+
+Uri: http://printrepublic.by/bg3.jpg
+File Name: c:\Downloaded Web Sites\printrepublic.by\bg3.jpg
+Content Type: image/jpeg
+
+Uri: http://printrepublic.by/bg5.jpg
+File Name: c:\Downloaded Web Sites\printrepublic.by\bg5.jpg
+Content Type: image/jpeg
+
+Uri: http://printrepublic.by/bg4.jpg
+File Name: c:\Downloaded Web Sites\printrepublic.by\bg4.jpg
+Content Type: image/jpeg
+
+Uri: http://printrepublic.by/img/bg-header.jpg
+File Name: c:\Downloaded Web Sites\printrepublic.by\img\bg-header.jpg
+Content Type: image/jpeg
+
+Uri: http://printrepublic.by/img/sprite.png
+File Name: c:\Downloaded Web Sites\printrepublic.by\img\sprite.png
+Content Type: image/png
+
+Uri: http://printrepublic.by/index.html?
+File Name: c:\Downloaded Web Sites\printrepublic.by\index-1.html
+Content Type: text/html
+
